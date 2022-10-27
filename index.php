@@ -1,1 +1,1 @@
-echo "salut"
+echo "salut";
